@@ -2,11 +2,11 @@
   "Shelfmark": {
     "repo": "https://github.com/louisefindlay23/organizr-plugin-shelfmark",
     "author": "Louise Findlay",
-    "category": "Downloaders",
+    "category": "PVR",
     "description": "Show Shelfmark downloads and requests on the Organizr homepage, on their own or as a tab in the combined Downloader",
     "icon": "https://raw.githubusercontent.com/louisefindlay23/organizr-plugin-shelfmark/main/shelfmark/logo.png",
     "website": "https://github.com/calibrain/shelfmark",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minimum_organizr_version": "2.1.0",
     "github_folder": "shelfmark",
     "project_folder": "shelfmark",
